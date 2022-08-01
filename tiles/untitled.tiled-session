@@ -1,0 +1,34 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "minish hyrule.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.9999999999999,
+                "y": 576.6666666666665
+            }
+        }
+    },
+    "last.imagePath": "C:/Dev/undefined_py_game/sprites",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "minish hyrule.tsx",
+        "untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
